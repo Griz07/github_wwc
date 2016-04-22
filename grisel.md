@@ -1,5 +1,8 @@
 #Grisel Ancona Martínez
 
 > Ingeniera de software
-> Directora de Whomen Who Code.
+
+* Intereses:
+	* Administración de proyectos software
+	* Impartir talleres para WWCode
 
